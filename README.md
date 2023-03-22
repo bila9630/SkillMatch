@@ -6,6 +6,12 @@ Project created by Gianluca Geraci, Rebekka Roßberg, Johannes Pielmeier, Sandra
 
 I was mainly responsible for the setup, homepage, nagivation bar and database connection.
 
+# Try it out
+You can try out the project here: https://skill-match.vercel.app/
+login with the following credentials:
+- email: teamlead@web.de
+- password: RandomPassword123!
+
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
