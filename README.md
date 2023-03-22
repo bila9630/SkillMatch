@@ -1,12 +1,14 @@
 # Code-And-Create Hackathon
 This project was created during the Code-And-Create Hackathon. The problem was that employees got staffed on projects that they don't like. Our solution was to create a platform where employees can give information about their skills and preferences. Project owner can then search for employees that fit their project. This way the company can staff employees on projects that they like.
 
-Project created by Gianluca Geraci, Rebekka Roßberg, Johannes Pielmeier and Viet Duc Kieu
+## Team
+Project created by Gianluca Geraci, Rebekka Roßberg, Johannes Pielmeier, Sandra Boucte and Viet Duc Kieu
+
 I was mainly responsible for the setup, homepage, nagivation bar and database connection.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
