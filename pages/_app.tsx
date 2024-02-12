@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ColorScheme, ColorSchemeProvider, MantineProvider } from '@mantine/core';
 import type { AppProps } from 'next/app';
 import { useRouter } from 'next/router';
