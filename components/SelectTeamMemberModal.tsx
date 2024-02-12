@@ -134,7 +134,7 @@ export default function SelectTeamMemberModal(props:any) {
     opened={props.opened}
     onClose={() => props.setOpened(false)}
     title="Introduce yourself!"
-    size = "100%"
+    size = "90%"
     >
       <ScrollArea>
         <TextInput
